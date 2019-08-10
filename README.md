@@ -51,10 +51,10 @@
 ### Property:: ( Property:value; )
 		Color: teal/ #000000/ 122 555 125 ;
 		Text-align: left / right / center / justify / inherit ; 
-		margin: top left right bottom (margin:2px 2px 2px 2px; ) - 4 value
+		margin: top right bottom left (margin:2px 2px 2px 2px; ) - 4 value
 			3 value- top left&right bottom
 			2 value- top&bottom left&right
-		padding:  top left right bottom (margin:2px 2px 2px 2px; ) - 4 value
+		padding:  top right bottom left (margin:2px 2px 2px 2px; ) - 4 value
 			3 value- top left&right bottom
 			2 value- top&bottom left&right
 		Font-family: arial, verdana; (any use font style)
