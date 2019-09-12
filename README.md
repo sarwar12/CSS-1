@@ -17,14 +17,20 @@
 			        }
 			</style>
 
-	3) External CSS : 
+	3) External CSS : This isn't use HTML edit page. But Its link up HTML page use link tag after title tag.
+	            	  Its use new page. its extention name (.css)
+			<head>
+				<title> </title>
+				<link href="/style.css" rel="stylesheet" type="text/css"/>
+			</head>
+			 and create a style page (style.css)
 
 ### TAG::
 	Style Tag <style> </style>
 
 ### CSS SYNTAX: 
-		Selector Property Value
-		     h1{        color:       red;   }
+		Selector Property  Value
+		  h1 {     color :  red;   }
 
 ### Selector's:
 	1) Element Selector / Type Selector :
@@ -50,20 +56,21 @@
 
 ### Property:: ( Property:value; )
 		Color: teal/ #000000/ 122 555 125 ;
-		Text-align: left / right / center / justify / inherit ; 
+		Text-align: left / right / center / justify ; 
 		margin: top right bottom left (margin:2px 2px 2px 2px; ) - 4 value
-			3 value- top left&right bottom
-			2 value- top&bottom left&right
+			3 value- top left+right bottom
+			2 value- top+bottom left+right
 		padding:  top right bottom left (margin:2px 2px 2px 2px; ) - 4 value
-			3 value- top left&right bottom
-			2 value- top&bottom left&right
+			3 value- top left+right bottom
+			2 value- top+bottom left+right
 		Font-family: arial, verdana; (any use font style)
 			You used spacing font must used qutation (font-family:"Times New Roman";)
 		Font-size: 20px;
-		Font-weight: bold; ( normal, bold, bolder, lighter, inherit 100, 200, 300, 900)
+		Font-weight: bold; ( normal, bold, bolder, lighter, 100, 200, 300, 900)
 		Font-style:italic;
-		Font-variant: small-caps; (small-caps, normal, inherit)
+		Font-variant: small-caps; (small-caps, normal)
 	|
-  
+ 
+ ***
   ## G SARWAR
   ### Web Instructor
